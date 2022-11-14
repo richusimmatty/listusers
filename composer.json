@@ -1,0 +1,7 @@
+{
+    "name": "richu/users",
+    "require": {},
+    "autoload": {
+        "psr-4": {"UserCrawler\\":"src"}
+    }
+}
